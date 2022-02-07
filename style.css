@@ -1,0 +1,51 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+  font-family: arial, Helvetica, sans-serif;
+padding-left: 40%; 
+}
+
+h4 {
+  color: black;
+  
+}
+
+h6 {
+  color: white;
+  font-size: 10px;
+  font-family: arial, Helvetica, sans-serif;
+  
+}
+
+h3 {
+  color: white;
+  font-size: 18px;
+  font-family: arial, Helvetica, sans-serif;
+  padding-left: 10%;
+}
+
+h6 {
+  color: white;
+  font-size: 10px;
+  font-family: arial, Helvetica, sans-serif;
+  padding-left: 10px;
+}
+
+
+img{
+  width: 20%;
+  padding-left: 45%; 
+}
+
+.header{
+  background-color: black;
+  padding-left: 10px; 
+}
+
+.footer{
+  background-color: black;
+}
